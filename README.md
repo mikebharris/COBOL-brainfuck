@@ -1,4 +1,4 @@
-# COBOL-Brainfuck
+# ++++++++++[>+++++++>+++++++>++++++++++>+++>+<<<<<-]>>++.>+.+++++++..+++.>++.<<-----.<+++++++++.>-.<.---.>>>.+.>.
 A interpreter for the Brainfuck language written in GnuCOBOL
 
 Compile with
@@ -6,6 +6,17 @@ Compile with
 
 Run with
 ```./brainfuck hello.bf```
+
+## Example
+
+```
+$ cd programs
+$ cobc -x -free ../brainfuck.cbl
+$ ./brainfuck hello.bf 
+Program loaded - length is 00837 bytes
+Hello COBOL !
+$
+```
 
 ## Known issues and things to improve
 
