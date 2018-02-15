@@ -7,6 +7,15 @@ Compile with
 Run with
 ```./brainfuck hello.bf```
 
+## Example
+
+```
+programs $ cobc -x -free ../brainfuck.cbl
+programs $ ./brainfuck hello.bf 
+Program loaded - length is 00837 bytes
+Hello COBOL 
+```
+
 ## Known issues and things to improve
 
 1. It is pretty darn slow
