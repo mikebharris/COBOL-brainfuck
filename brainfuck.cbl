@@ -28,7 +28,6 @@ working-storage section.
             88 InputByteAtDataPointer value ",".
             88 JumpIfByteIsZero value "[".
             88 JumpIfByteIsNonZero value "]".
-            88 EndOfProgram value high-values.
 
     01 DataPointer pic 9(5).
     01 InstructionPointer pic 9(5).
