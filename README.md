@@ -1,5 +1,5 @@
 # ++++++++++[>+++++++>+++++++>++++++++++>+++>+<<<<<-]>>++.>+.+++++++..+++.>++.<<-----.<+++++++++.>-.<.---.>>>.+.>.
-A interpreter for the brainfuck language written in GnuCOBOL
+A interpreter for the [brainfuck language](https://esolangs.org/wiki/Brainfuck) written in [GnuCOBOL](https://sourceforge.net/projects/open-cobol/).  Probably history's most verbose programming language used to run programs in one of history's most minimalistic languages.
 
 Compile with
 ```cobc -x -free brainfuck.cbl```
