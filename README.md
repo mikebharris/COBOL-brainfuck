@@ -10,10 +10,12 @@ Run with
 ## Example
 
 ```
-programs $ cobc -x -free ../brainfuck.cbl
-programs $ ./brainfuck hello.bf 
+$ cd programs
+$ cobc -x -free ../brainfuck.cbl
+$ ./brainfuck hello.bf 
 Program loaded - length is 00837 bytes
-Hello COBOL 
+Hello COBOL !
+$
 ```
 
 ## Known issues and things to improve
