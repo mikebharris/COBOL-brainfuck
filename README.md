@@ -1,5 +1,5 @@
 # ++++++++++[>+++++++>+++++++>++++++++++>+++>+<<<<<-]>>++.>+.+++++++..+++.>++.<<-----.<+++++++++.>-.<.---.>>>.+.>.
-A interpreter for the Brainfuck language written in GnuCOBOL
+A interpreter for the brainfuck language written in GnuCOBOL
 
 Compile with
 ```cobc -x -free brainfuck.cbl```
