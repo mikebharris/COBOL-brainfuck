@@ -1,4 +1,4 @@
-# COBOL-Brainfuck
+# ++++++++++[>+++++++>+++++++>++++++++++>+++>+<<<<<-]>>++.>+.+++++++..+++.>++.<<-----.<+++++++++.>-.<.---.>>>.+.>.
 A interpreter for the Brainfuck language written in GnuCOBOL
 
 Compile with
